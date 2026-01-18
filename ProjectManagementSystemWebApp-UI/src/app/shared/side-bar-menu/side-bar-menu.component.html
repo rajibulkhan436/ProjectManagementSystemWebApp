@@ -1,0 +1,30 @@
+<nav class="sidebar" [class.collapsed]="isSideBarCollapsed">
+  <ul>
+    <li
+      *ngFor="let item of menuItems"
+      (click)="toggleSubMenu(item)"
+      (keydown.enter)="toggleSubMenu(item)"
+    >
+      <div class="menu-item ">
+        <span>
+          <i class="menu-icons" [attr.title]="isSideBarCollapsed ? item.name : null " [class]="item.icon"></i>
+          <span *ngIf="!isSideBarCollapsed">{{ item.name }}</span>
+        </span>
+        <i
+          class="pi"
+          *ngIf="!isSideBarCollapsed"
+          [ngClass]="{'pi-angle-right': !item.subMenuOpen, 'pi-angle-down': item.subMenuOpen}"
+        ></i>
+      </div>
+      <ul *ngIf="item.subMenuOpen && !isSideBarCollapsed" class="sub-menu">
+        <li
+          *ngFor="let subItem of item.subItems"
+          (click)="navigateTo(subItem.route)"
+          (keydown.enter)="navigateTo(subItem.route)"
+        ><div class="sub-item">{{ subItem.name }}</div>
+          
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>

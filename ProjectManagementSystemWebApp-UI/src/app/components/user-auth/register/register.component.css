@@ -1,0 +1,14 @@
+a{
+  color: #324ef1 !important;
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: underline;
+}
+.error-container {
+  min-height: 24px;
+  margin-left: 3px;
+}
+.top-20{
+  top:20px;
+}

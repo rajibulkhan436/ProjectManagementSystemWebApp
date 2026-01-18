@@ -1,0 +1,7 @@
+<app-table-grid
+  [columns]="columns"
+  [tableData]="tasks"
+  [onAssignClick]="openTaskDialog.bind(this)"
+  [onViewClick]="openTaskDetailDialog.bind(this)"
+  [onRowClick]="openTaskDetailDialog.bind(this)"
+></app-table-grid>

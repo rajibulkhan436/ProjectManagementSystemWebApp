@@ -1,0 +1,40 @@
+<header class="header-container" [class.dark-mode]="isDarkMode">
+  <div class="menu-icon" (click)="toggleSidebar()">
+    <div class="logo">
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/4844/4844342.png"
+        alt="Logo"
+      />
+    </div>
+    <span [ngClass]="isSideBarCollapsed ? 'pi pi-bars' : 'pi pi-times'"></span>
+  </div>
+
+  <h1 class="project-title">{{ title }}</h1>
+
+  <div class="d-flex gap-4 pr-4">
+    <div class="darkMode">
+      <p>{{ mode }}</p>
+      <label class="switch">
+        <input
+          type="checkbox"
+          (change)="toggleDarkMode()"
+          [checked]="isDarkMode"
+        />
+        <span class="slider round"></span>
+      </label>
+    </div>
+    <div class="dropdown">
+      <button
+        class="btn btn-outline-light dropdown-toggle"
+        type="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false"
+      >
+        Welcome {{ userName }}
+      </button>
+      <ul class="dropdown-menu">
+        <a class="dropdown-item btn" (click)="logout()">Logout</a>
+      </ul>
+    </div>
+  </div>
+</header>

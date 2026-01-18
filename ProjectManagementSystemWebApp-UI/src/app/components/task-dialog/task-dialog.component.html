@@ -1,0 +1,80 @@
+<div class="modal-header">
+  <button
+    type="button"
+    class="btn-close float-end-btn"
+    (click)="closeDialog()"
+  ></button>
+</div>
+
+<div class="modal-body">
+  <form [formGroup]="addForm">
+    <div *ngFor="let col of columns">
+      <div class="mb-3" *ngIf="col?.type !== 'action' && col?.field">
+        <label class="form-label">{{ col?.headerName }}</label>
+
+        <!-- Text-->
+        <input
+          *ngIf="col?.type === 'text'"
+          type="text"
+          class="form-control"
+          formControlName="{{ col.field }}"
+        />
+
+        <!-- LongText-->
+        <input
+          *ngIf="col?.type === 'longtext'"
+          type="text"
+          class="form-control"
+          formControlName="{{ col.field }}"
+        />
+
+        <!-- Date Picker -->
+        <p-datepicker
+          *ngIf="col?.type === 'date'"
+          inputId="calendar-24h"
+          formControlName="{{ col.field }}"
+          [showTime]="true"
+          [hourFormat]="'24'"
+          class="form-control"
+          appendTo="body"
+        ></p-datepicker>
+
+        <!-- assign-->
+        <p-dropdown
+          *ngIf="col?.type === 'assign'"
+          [options]="team"
+          formControlName="{{ col.field }}"
+          optionLabel="name"
+          optionValue="id"
+          class="form-control"
+          placeholder="Select Member"
+          [filter]="true"
+          filterBy="name"
+          showClear="true"
+          appendTo="body"
+        >
+        </p-dropdown
+        >
+
+        <!-- Error-->
+        <small
+          class="text-danger"
+          *ngIf="
+            formControls[col.field].invalid && formControls[col.field].touched
+          "
+        >
+          {{ col.headerName }} is required
+        </small>
+      </div>
+    </div>
+  </form>
+</div>
+
+<div class="modal-footer">
+  <button type="button" class="btn btn-primary mr-2" (click)="saveChanges()">
+    Save
+  </button>
+  <button type="button" class="btn btn-secondary" (click)="closeDialog()">
+    Cancel
+  </button>
+</div>

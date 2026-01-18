@@ -1,0 +1,28 @@
+<app-table-grid
+  [columns]="columns"
+  [tableData]="tasks"
+  [onUpdateClick]="openUpdateDialog.bind(this)"
+  [onDeleteClick]="openDeleteDialog.bind(this)"
+  [onViewClick]="openTaskDetailDialog.bind(this)"
+  [onRowClick]="openTaskDetailDialog.bind(this)"
+></app-table-grid>
+<div class="position-absolute bottom-0 end-0 m-3 ml-2">
+  <p-fileUpload
+    class="upload-button"
+    mode="basic"
+    name="file"
+    chooseIcon="pi pi-upload"
+    url="https://localhost:7114/api/file/UploadFile"
+    accept=".xls,.xlsx"
+    maxFileSize="1000000"
+    [auto]="true"
+    chooseLabel=""
+    (onUpload)="onUpload()"
+    (onError)="onUploadError()"
+    [customUpload]="false"
+  />
+  <button class="fab-button" (click)="openImportLog()">
+    <i class="pi pi-history"></i>
+  </button>
+  <p-confirmDialog></p-confirmDialog>
+</div>

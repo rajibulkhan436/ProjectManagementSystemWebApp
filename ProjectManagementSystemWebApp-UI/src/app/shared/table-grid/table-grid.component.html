@@ -1,0 +1,13 @@
+<ag-grid-angular
+  class="app-table-grid"
+  style="height: 100%; width: 100%"
+  [rowData]="tableData"
+  [columnDefs]="colDefs"
+  [theme]="theme"
+  [defaultColDef]="defaultColDef"
+  [pagination]="pagination"
+  [paginationPageSize]="paginationPageSize"
+  [paginationPageSizeSelector]="[15, 20, 25]"
+  [animateRows]="true"
+  (rowDoubleClicked)="handleRowDoubleClick($event)"
+/>

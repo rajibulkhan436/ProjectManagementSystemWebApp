@@ -1,0 +1,72 @@
+<div class="table-container">
+  <p-table
+    [value]="tableData"
+    [tableStyle]="{ 'min-width': '60rem' }"
+    [paginator]="true"
+    [rows]="10"
+    [rowsPerPageOptions]="[5, 10, 20]"
+  >
+    <ng-template #caption>
+      <div class="table-caption">
+        <span class="text-xl font-bold">{{ title | uppercase }}</span>
+      </div>
+    </ng-template>
+    <ng-template #header>
+      <tr>
+        <th *ngFor="let col of columns" [attr.scope]="'col'">
+          {{ col?.headerName }}
+        </th>
+      </tr>
+    </ng-template>
+    <ng-template #body let-rowData of tableData>
+      <tr>
+        <td *ngFor="let col of columns">
+          <ng-container
+            *ngIf="
+              (rowData[col.field] !== null &&
+                rowData[col.field] !== undefined &&
+                rowData[col.field] !== '') ||
+                col.type === 'action';
+              else noData
+            "
+          >
+            <ng-container [ngSwitch]="col.type">
+              <ng-container *ngSwitchDefault>
+                {{ rowData[col.field] }}
+              </ng-container>
+
+              <!-- Date -->
+              <span class="Date" *ngSwitchCase="'date'">
+                {{ rowData[col.field] | date : "longDate" }}
+              </span>
+
+              <ng-container *ngSwitchCase="'number'">
+                <p-tag
+                  [value]="rowData[col.field] | parseStatus"
+                  [severity]="getSeverity(rowData[col.field])"
+                ></p-tag>
+              </ng-container>
+              <ng-container *ngSwitchCase="'action'">
+                <td>
+                  <p-button
+                    (click)="onClick(rowData)"
+                    icon="pi pi-pencil"
+                    label="Update"
+                  />
+                </td>
+              </ng-container>
+            </ng-container>
+          </ng-container>
+
+          <ng-template #noData>
+            <span class="text-danger">NA</span>
+          </ng-template>
+        </td>
+      </tr>
+    </ng-template>
+
+    <ng-template #footer>
+      <!-- In total there are {{ tableData ? tableData?.length : 0 }} {{ tableData }} -->
+    </ng-template>
+  </p-table>
+</div>

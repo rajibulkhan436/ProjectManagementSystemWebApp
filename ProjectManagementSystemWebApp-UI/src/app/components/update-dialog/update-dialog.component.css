@@ -1,0 +1,14 @@
+.float-end-btn {
+  position: absolute;
+  top: 23px;
+  right: 20px;
+  font-size: 20px;
+}
+
+::ng-deep .p-select-overlay , .p-component {
+  width: 100% !important;
+}
+
+.p-datepicker{
+  width: 100% !important;
+}

@@ -1,0 +1,74 @@
+<div class="container d-flex justify-content-center align-items-center vh-100">
+  <div class="card shadow-lg p-4 w-100" style="max-width: 500px">
+    <h1 class="text-primary text-center mb-4">Project Management System</h1>
+
+    <h2 class="text-center">Login</h2>
+
+    <form [formGroup]="loginForm" (ngSubmit)="onLogin()">
+      <div class="mb-1">
+        <input
+          type="email"
+          class="form-control"
+          formControlName="email"
+          placeholder="Email"
+        />
+        <div class="error-container">
+          <small
+            *ngIf="
+              loginForm.get('email')?.invalid && loginForm.get('email')?.touched
+            "
+            class="text-danger"
+            >Email is required</small
+          >
+        </div>
+      </div>
+
+      <div class="mb-1 position-relative">
+        <input
+          [type]="showPassword ? 'text' : 'password'"
+          class="form-control pe-5"
+          formControlName="password"
+          placeholder="Password"
+        />
+        <button
+          type="button"
+          class="btn position-absolute end-0 top-20 translate-middle-y me-2"
+          (click)="showPassword = !showPassword"
+        >
+          <i
+            class="pi"
+            [ngClass]="showPassword ? 'pi-eye-slash' : 'pi-eye'"
+          ></i>
+        </button>
+        <div class="error-container">
+          <small
+            *ngIf="
+              loginForm.get('password')?.invalid &&
+              loginForm.get('password')?.touched
+            "
+            class="text-danger"
+            >Password must be 6 characters long.</small
+          >
+        </div>
+      </div>
+
+      <div class="text-center">
+        <button
+          type="submit"
+          class="btn w-100"
+          [ngClass]="{
+            'btn-success': loginForm.valid,
+            'btn-secondary': loginForm.invalid
+          }"
+          [disabled]="loginForm.invalid"
+        >
+          Login
+        </button>
+      </div>
+    </form>
+
+    <p class="text-center mt-3">
+      Don't have an account? <a (click)="goToRegister()">Register</a>
+    </p>
+  </div>
+</div>

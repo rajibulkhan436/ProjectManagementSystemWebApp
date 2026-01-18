@@ -1,0 +1,11 @@
+.btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-block-start: 8%;
+  gap: 8px;
+}
+td {
+  vertical-align: middle !important;
+  text-align: center;
+}

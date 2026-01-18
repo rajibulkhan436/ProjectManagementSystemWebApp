@@ -1,0 +1,18 @@
+<div class="project-container">
+  <app-header (sidebarToggle)="isSideBarCollapsed = $event"></app-header>
+
+  <div class="main-layout">
+    <app-side-bar-menu
+      [isSideBarCollapsed]="isSideBarCollapsed"
+      [ngClass]="
+        isSideBarCollapsed ? 'sideBarCollapsed' : 'sideBarNotCollapsed'
+      "
+    ></app-side-bar-menu>
+
+    <span class="dashboard">
+      <router-outlet></router-outlet>
+    </span>
+  </div>
+
+  <app-progress-bar class="bottom-progress-bar"></app-progress-bar>
+</div>

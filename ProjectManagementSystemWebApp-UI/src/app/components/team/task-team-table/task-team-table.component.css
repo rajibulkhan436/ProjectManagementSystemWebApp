@@ -1,0 +1,5 @@
+.ag-theme-quartz{
+    border-color: brown;
+    color:blueviolet;
+    --ag-foreground-color: blueviolet;
+}
