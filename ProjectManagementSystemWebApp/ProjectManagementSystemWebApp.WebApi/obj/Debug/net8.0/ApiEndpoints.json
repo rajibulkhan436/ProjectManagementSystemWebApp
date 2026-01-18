@@ -1,0 +1,314 @@
+[
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Authentication.AuthenticationController",
+    "Method": "DisplayHomePage",
+    "RelativePath": "api/Authentication",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Authentication.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "ProjectManagementSystem.Services.DTOs.UserDTOs.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Authentication.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "ProjectManagementSystem.Services.DTOs.UserDTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Background.BackgroundController",
+    "Method": "EnqueueTask",
+    "RelativePath": "api/Background/EnqueueTask",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.FileUpload.FileController",
+    "Method": "UploadFileAsync",
+    "RelativePath": "api/File/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.ImportLog.LogController",
+    "Method": "GetImportLogs",
+    "RelativePath": "api/Log/DisplayImportLog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Menu.MenuController",
+    "Method": "GetFeatureMenuAsync",
+    "RelativePath": "api/Menu/DisplayFeaturesMenu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Projects.ProjectController",
+    "Method": "DisplayHomePage",
+    "RelativePath": "api/Project",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Projects.ProjectController",
+    "Method": "DeleteProjectAsync",
+    "RelativePath": "api/Project/DeleteProject",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Projects.ProjectController",
+    "Method": "DisplayProjectReportAsync",
+    "RelativePath": "api/Project/DisplayProjectReports",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Projects.ProjectController",
+    "Method": "DisplayProjectStatusAsync",
+    "RelativePath": "api/Project/DisplayProjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Projects.ProjectController",
+    "Method": "DisplayProjectStatusByIdAsync",
+    "RelativePath": "api/Project/DisplayProjectsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Projects.ProjectController",
+    "Method": "UpdateProjectStatusAsync",
+    "RelativePath": "api/Project/UpdateProjectStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ProjectManagementSystem.Services.Features.Projects.UpdateProjectStatusById\u002BUpdateProjectStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Tasks.TaskController",
+    "Method": "DisplayHomePageAsync",
+    "RelativePath": "api/Task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Tasks.TaskController",
+    "Method": "AddTaskASync",
+    "RelativePath": "api/Task/AddTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ProjectManagementSystem.Services.Features.Tasks.AddTask\u002BAddTaskCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Tasks.TaskController",
+    "Method": "AssignTaskAsync",
+    "RelativePath": "api/Task/AssignTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ProjectManagementSystem.Services.Features.Tasks.AssignTaskToMember\u002BAssignTaskToMemberCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Tasks.TaskController",
+    "Method": "DeleteTaskAsync",
+    "RelativePath": "api/Task/DeleteTask",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Tasks.TaskController",
+    "Method": "DisplayTaskStatusAsync",
+    "RelativePath": "api/Task/DisplayTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Tasks.TaskController",
+    "Method": "DisplayTaskStatusByIdAsync",
+    "RelativePath": "api/Task/DisplayTasksById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Tasks.TaskController",
+    "Method": "UpdateTaskStatusAsync",
+    "RelativePath": "api/Task/UpdateTaskStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ProjectManagementSystem.Services.Features.Projects.UpdateTaskStatusById\u002BUpdateTaskStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Teams.TeamController",
+    "Method": "DisplayHomePageAsync",
+    "RelativePath": "api/Team",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Teams.TeamController",
+    "Method": "DisplayTaskTeamAsync",
+    "RelativePath": "api/Team/DisplayTaskTeam",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Teams.TeamController",
+    "Method": "DisplayTaskTeamByIdAsync",
+    "RelativePath": "api/Team/DisplayTaskTeamById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementSystemWebApp.WebApi.Controllers.Teams.TeamController",
+    "Method": "DisplayTeamMembersAsync",
+    "RelativePath": "api/Team/DisplayTeamMembers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

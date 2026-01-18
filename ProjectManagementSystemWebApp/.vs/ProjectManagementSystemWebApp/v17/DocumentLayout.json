@@ -1,0 +1,2053 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\authentication\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\authentication\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\authentication\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\authentication\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAEA7F0-8BA1-41A4-AADB-410AE1EDB3FC}|ProjectManagementSystem.Core\\ProjectManagementSystem.Core.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.core\\settings\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAEA7F0-8BA1-41A4-AADB-410AE1EDB3FC}|ProjectManagementSystem.Core\\ProjectManagementSystem.Core.csproj|solutionrelative:projectmanagementsystem.core\\settings\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\projects\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\projects\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\fileupload\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\fileupload\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\featureconfigutration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\featureconfigutration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\projectmanagementsystemwebapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\projectmanagementsystemwebapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\tasks\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\tasks\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\constants\\routekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\constants\\routekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\migrations\\20250409132551_db-init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\migrations\\20250409132551_db-init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\failedimportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\failedimportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\services\\helper\\projecttaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\services\\helper\\projecttaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\contracts\\iprojecttaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\contracts\\iprojecttaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\services\\helper\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\services\\helper\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\contracts\\ifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\contracts\\ifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\contracts\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\contracts\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\contracts\\imediatorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\contracts\\imediatorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\constants\\fieldconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\constants\\fieldconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\authentication\\customauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\authentication\\customauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\authorization\\attributes\\customauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\authorization\\attributes\\customauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\authorization\\policy\\rolepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\authorization\\policy\\rolepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\constants\\rolepolicynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\constants\\rolepolicynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\background\\backgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\background\\backgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\importlog\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\importlog\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\tasks\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\tasks\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\controllers\\teams\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\controllers\\teams\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\contracts\\iimportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\contracts\\iimportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\failedimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\failedimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\projectdtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\projectdtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\tasks\\uploadtaskfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\tasks\\uploadtaskfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\tasks\\gettaskstatusbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\tasks\\gettaskstatusbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\tasks\\getalltaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\tasks\\getalltaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\tasks\\deletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\tasks\\deletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\tasks\\assigntasktomember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\tasks\\assigntasktomember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\tasks\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\tasks\\addtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\teamdtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\teamdtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\taskdtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\taskdtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\projectmanagementsystem.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\projectmanagementsystem.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAEA7F0-8BA1-41A4-AADB-410AE1EDB3FC}|ProjectManagementSystem.Core\\ProjectManagementSystem.Core.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.core\\notificationhub\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAEA7F0-8BA1-41A4-AADB-410AE1EDB3FC}|ProjectManagementSystem.Core\\ProjectManagementSystem.Core.csproj|solutionrelative:projectmanagementsystem.core\\notificationhub\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\services\\notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\services\\notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\projects\\updateprojectstatusbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\projects\\updateprojectstatusbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\contracts\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\contracts\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\contracts\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\contracts\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\importlog\\getimportlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\importlog\\getimportlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\repositories\\importrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\repositories\\importrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\importdtos\\failedimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\importdtos\\failedimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\importdtos\\importdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\importdtos\\importdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\commentdtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\commentdtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\taskteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\taskteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\projectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\projectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\importconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\importconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\contracts\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\contracts\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\taskdtos\\taskassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\taskdtos\\taskassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\teammember\\gettaskteambytaskid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\teammember\\gettaskteambytaskid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\teamdtos\\taskteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\teamdtos\\taskteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\featurecategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\featurecategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\taskassignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\taskassignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\teammemberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\teammemberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.contexts\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348D3D3A-9D2A-44C0-AB0E-ED13B88973FC}|ProjectManagementSystem.Contexts\\ProjectManagementSystem.Contexts.csproj|solutionrelative:projectmanagementsystem.contexts\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\featurescategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\featurescategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\userdtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\userdtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\services\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\services\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\comments\\addcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\comments\\addcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\featuresdtos\\featurecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\featuresdtos\\featurecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\menu\\getallfeaturemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\menu\\getallfeaturemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\featuresdtos\\featuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\featuresdtos\\featuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250328054052_ProperConfiguredMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250328054052_ProperConfiguredMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\authentication\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\authentication\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122650_UpdateSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250327122650_UpdateSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122437_ForceUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250327122437_ForceUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122015_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250327122015_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327121108_lastChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250327121108_lastChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327120755_fewfeatureCategorychanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250327120755_fewfeatureCategorychanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327120422_fewChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250327120422_fewChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.entities\\projectmanagementsystem.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB1A8331-7CC1-474A-A5C6-3D2F7EB9A216}|ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj|solutionrelative:projectmanagementsystem.entities\\projectmanagementsystem.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327114938_UpdateCommentConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250327114938_UpdateCommentConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\projects\\deleteproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\projects\\deleteproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\projects\\getprojectstatusbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\projects\\getprojectstatusbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\projects\\getprojectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\projects\\getprojectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\projects\\getallprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\projects\\getallprojectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\teammember\\deleteteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\teammember\\deleteteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\teammember\\getallteammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\teammember\\getallteammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\features\\teammember\\getalltaskteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\features\\teammember\\getalltaskteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\typeadapter\\mappingadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\typeadapter\\mappingadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAEA7F0-8BA1-41A4-AADB-410AE1EDB3FC}|ProjectManagementSystem.Core\\ProjectManagementSystem.Core.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.core\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAEA7F0-8BA1-41A4-AADB-410AE1EDB3FC}|ProjectManagementSystem.Core\\ProjectManagementSystem.Core.csproj|solutionrelative:projectmanagementsystem.core\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.services\\dtos\\projectdtos\\projectreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AFEEDC-9A5F-4197-86A8-EA07302B2FB0}|ProjectManagementSystem.Services\\ProjectManagementSystem.Services.csproj|solutionrelative:projectmanagementsystem.services\\dtos\\projectdtos\\projectreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250307020751_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250307020751_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305094451_updationDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250305094451_updationDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305082009_featureupdation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250305082009_featureupdation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081635_featurenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250305081635_featurenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081410_features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250305081410_features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081000_feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250305081000_feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305060556_DynamicSidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250305060556_DynamicSidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305060033_featuresadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectManagementSystem.Contexts\\Migrations\\20250305060033_featuresadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystemwebapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6694F79B-D071-42DD-9DF1-1971F780E74D}|ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj|solutionrelative:projectmanagementsystemwebapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.13\\PACKAGE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.13\\docs\\PACKAGE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|d:\\codeinsight\\backup\\projectmanagementsystemwebapp\\projectmanagementsystem.dataaccess\\contracts\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B56148-BD03-4A75-8D63-A3D29D33D134}|ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj|solutionrelative:projectmanagementsystem.dataaccess\\contracts\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Program.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Program.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:57:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Menu\\MenuController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Menu\\MenuController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Menu\\MenuController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Menu\\MenuController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:08:30.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Projects\\ProjectController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Projects\\ProjectController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Projects\\ProjectController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Projects\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:09:04.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeatureConfigutration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\FeatureConfigutration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\FeatureConfigutration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\FeatureConfigutration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\FeatureConfigutration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:19:29.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\TaskConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\TaskConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\TaskConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\TaskConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:58:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Authentication\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Authentication\\AuthenticationController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Authentication\\AuthenticationController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Authentication\\AuthenticationController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:04:39.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Authentication\\LoginUser.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Authentication\\LoginUser.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Authentication\\LoginUser.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Authentication\\LoginUser.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:47:56.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Startup.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Startup.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:43:22.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\FileUpload\\FileController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\FileUpload\\FileController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\FileUpload\\FileController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\FileUpload\\FileController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:42:06.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSetting.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Core\\Settings\\AppSetting.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Core\\Settings\\AppSetting.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Core\\Settings\\AppSetting.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Core\\Settings\\AppSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:20:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\appsettings.json",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\appsettings.json",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T08:02:29.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:16:17.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectManagementSystemWebApp.WebApi.csproj",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\ProjectManagementSystemWebApp.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T06:48:02.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\UnitOfWork.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:37:41.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:38:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\ProjectTask.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\ProjectTask.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\ProjectTask.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:23:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\Project.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Project.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:20:28.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:53:58.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\TaskController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\TaskController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\TaskController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:43:04.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RouteKeys.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Constants\\RouteKeys.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Constants\\RouteKeys.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Constants\\RouteKeys.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Constants\\RouteKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:13:21.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\Comment.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Comment.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\Comment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:56:53.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\DatabaseContext.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\DatabaseContext.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\DatabaseContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:00:02.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:21:47.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250409132551_Db-Init.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250409132551_Db-Init.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250409132551_Db-Init.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250409132551_Db-Init.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250409132551_Db-Init.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAQwDoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:25:52.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\ProjectConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\ProjectConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:49:14.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FailedImportConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\FailedImportConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\FailedImportConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\FailedImportConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\FailedImportConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:08:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectTaskManager.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Helper\\ProjectTaskManager.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Services\\Helper\\ProjectTaskManager.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Helper\\ProjectTaskManager.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Services\\Helper\\ProjectTaskManager.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:04:12.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProjectTaskManager.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\IProjectTaskManager.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Contracts\\IProjectTaskManager.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\IProjectTaskManager.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Contracts\\IProjectTaskManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:00:13.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Helper\\FileManager.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Services\\Helper\\FileManager.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Helper\\FileManager.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Services\\Helper\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:00:30.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFileManager.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\IFileManager.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Contracts\\IFileManager.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\IFileManager.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Contracts\\IFileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:54:18.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T11:01:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\INotificationService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Contracts\\INotificationService.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\INotificationService.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Contracts\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:54:52.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMediatorInterface.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\IMediatorInterface.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Contracts\\IMediatorInterface.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Contracts\\IMediatorInterface.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Contracts\\IMediatorInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:56:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FieldConstants.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Constants\\FieldConstants.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Constants\\FieldConstants.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Constants\\FieldConstants.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Constants\\FieldConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:03:27.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Authentication\\CustomAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Authentication\\CustomAuthenticationHandler.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Authentication\\CustomAuthenticationHandler.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Authentication\\CustomAuthenticationHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:46:51.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomAuthorizationAttribute.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Authorization\\Attributes\\CustomAuthorizationAttribute.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Authorization\\Attributes\\CustomAuthorizationAttribute.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Authorization\\Attributes\\CustomAuthorizationAttribute.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Authorization\\Attributes\\CustomAuthorizationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:46:46.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RolePolicy.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Authorization\\Policy\\RolePolicy.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Authorization\\Policy\\RolePolicy.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Authorization\\Policy\\RolePolicy.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Authorization\\Policy\\RolePolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:24:13.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BackgroundController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Background\\BackgroundController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Background\\BackgroundController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Background\\BackgroundController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Background\\BackgroundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:30:10.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\ImportLog\\LogController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\ImportLog\\LogController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\ImportLog\\LogController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\ImportLog\\LogController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:50:18.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RolePolicyNames.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Constants\\RolePolicyNames.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Constants\\RolePolicyNames.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Constants\\RolePolicyNames.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Constants\\RolePolicyNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:30:04.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\CommentController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\CommentController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\CommentController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Tasks\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:06:29.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Teams\\TeamController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Teams\\TeamController.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Controllers\\Teams\\TeamController.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Controllers\\Teams\\TeamController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:48:16.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:57:14.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IImportRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IImportRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Contracts\\IImportRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IImportRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Contracts\\IImportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:13:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:16:53.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FailedImport.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\FailedImport.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\FailedImport.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\FailedImport.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\FailedImport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:28:31.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Feature.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\Feature.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Feature.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:15:22.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetTaskStatusById.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\GetTaskStatusById.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Tasks\\GetTaskStatusById.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\GetTaskStatusById.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Tasks\\GetTaskStatusById.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:10:40.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DeleteTask.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\DeleteTask.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Tasks\\DeleteTask.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\DeleteTask.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Tasks\\DeleteTask.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:41:43.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AssignTaskToMember.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\AssignTaskToMember.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Tasks\\AssignTaskToMember.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\AssignTaskToMember.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Tasks\\AssignTaskToMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:52:34.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AddTask.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\AddTask.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Tasks\\AddTask.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\AddTask.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Tasks\\AddTask.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:48:23.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TeamDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TeamDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TeamDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TeamDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TeamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:46:40.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:06:40.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:32:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UploadTaskFile.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\UploadTaskFile.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Tasks\\UploadTaskFile.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\UploadTaskFile.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Tasks\\UploadTaskFile.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAvwFYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:44:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetAllTaskStatus.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\GetAllTaskStatus.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Tasks\\GetAllTaskStatus.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Tasks\\GetAllTaskStatus.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Tasks\\GetAllTaskStatus.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvyIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:09:40.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\TeamMember.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\TeamMember.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\TeamMember.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:14:55.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Core\\NotificationHub\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Core\\NotificationHub\\NotificationHub.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Core\\NotificationHub\\NotificationHub.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Core\\NotificationHub\\NotificationHub.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:04:07.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProjectManagementSystem.DataAccess.csproj",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\ProjectManagementSystem.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T13:00:29.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Notification\\NotificationService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Services\\Notification\\NotificationService.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Notification\\NotificationService.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Services\\Notification\\NotificationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:01:18.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UpdateProjectStatusById.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\UpdateProjectStatusById.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Projects\\UpdateProjectStatusById.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\UpdateProjectStatusById.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Projects\\UpdateProjectStatusById.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:54:43.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Contracts\\IProjectRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IProjectRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Contracts\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:45:05.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Repositories\\MenuRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\MenuRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Repositories\\MenuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:36:59.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Contracts\\ITaskRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\ITaskRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Contracts\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:38:02.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ImportDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\ImportDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\ImportDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\ImportDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\ImportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:16:45.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FailedImportDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\FailedImportDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\FailedImportDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\FailedImportDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\ImportDTOs\\FailedImportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:17:08.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ImportRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\ImportRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Repositories\\ImportRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\ImportRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Repositories\\ImportRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAewC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:14:31.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Import.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Import.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\Import.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\Import.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\Import.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:23:33.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\CommentConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\CommentConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\CommentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:17:40.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GetImportLog.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\ImportLog\\GetImportLog.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\ImportLog\\GetImportLog.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\ImportLog\\GetImportLog.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\ImportLog\\GetImportLog.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:22:39.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Repositories\\TeamRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:45:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TaskTeam.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\TaskTeam.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\TaskTeam.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\TaskTeam.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\TaskTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:12:08.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProjectReport.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\ProjectReport.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\ProjectReport.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\ProjectReport.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\ProjectReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:52:46.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\CommentDTos\\CommentDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\CommentDTos\\CommentDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\CommentDTos\\CommentDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\CommentDTos\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:20:36.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TaskAssignment.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\TaskAssignment.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\TaskAssignment.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\TaskAssignment.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\TaskAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:14:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ImportConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\ImportConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\ImportConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\ImportConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\ImportConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:34:53.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Contracts\\IMenuRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IMenuRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Contracts\\IMenuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:39:13.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TaskAssignmentDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskAssignmentDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskAssignmentDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskAssignmentDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\TaskDTOs\\TaskAssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:58:13.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:40:58.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Contracts\\IUserRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Contracts\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:44:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GetTaskTeamByTaskId.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\GetTaskTeamByTaskId.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\TeamMember\\GetTaskTeamByTaskId.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\GetTaskTeamByTaskId.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\TeamMember\\GetTaskTeamByTaskId.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:51:22.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TaskTeamDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TaskTeamDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TaskTeamDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TaskTeamDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\TeamDTOs\\TaskTeamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:40:41.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FeatureCategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\FeatureCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\FeatureCategoryConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\FeatureCategoryConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\FeatureCategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:41:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:17:04.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "TeamMemberConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\TeamMemberConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\TeamMemberConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\TeamMemberConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\TeamMemberConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:16:44.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TaskAssignmentConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\TaskAssignmentConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Configurations\\TaskAssignmentConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Configurations\\TaskAssignmentConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Configurations\\TaskAssignmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:23:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\User.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\User.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\User.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:12:13.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FeaturesCategory.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\FeaturesCategory.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\FeaturesCategory.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\FeaturesCategory.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\FeaturesCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:32:17.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserLoginDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:48:58.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Tokens\\TokenService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Services\\Tokens\\TokenService.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Services\\Tokens\\TokenService.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Services\\Tokens\\TokenService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:40:48.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "AddComment.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Comments\\AddComment.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Comments\\AddComment.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Comments\\AddComment.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Comments\\AddComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:57:50.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\UserDTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:46:09.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "FeatureCategoryDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureCategoryDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureCategoryDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureCategoryDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:22:03.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20250328054052_ProperConfiguredMigration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250328054052_ProperConfiguredMigration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250328054052_ProperConfiguredMigration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250328054052_ProperConfiguredMigration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250328054052_ProperConfiguredMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T05:40:52.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "GetAllFeatureMenu.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Menu\\GetAllFeatureMenu.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Menu\\GetAllFeatureMenu.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Menu\\GetAllFeatureMenu.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Menu\\GetAllFeatureMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:16:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "FeatureDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\FeaturesDTOs\\FeatureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:15:47.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Authentication\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Authentication\\RegisterUser.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Authentication\\RegisterUser.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Authentication\\RegisterUser.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwDMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:00:41.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.DataAccess\\Contracts\\ICommentRepository.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.DataAccess\\Contracts\\ICommentRepository.cs",
+              "RelativeToolTip": "ProjectManagementSystem.DataAccess\\Contracts\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:13:27.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20250327122015_dbinit.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122015_dbinit.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250327122015_dbinit.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122015_dbinit.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250327122015_dbinit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:20:15.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20250327122650_UpdateSchema.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122650_UpdateSchema.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250327122650_UpdateSchema.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122650_UpdateSchema.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250327122650_UpdateSchema.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:26:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250327122437_ForceUpdate.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122437_ForceUpdate.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250327122437_ForceUpdate.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327122437_ForceUpdate.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250327122437_ForceUpdate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:24:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20250327121108_lastChange.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327121108_lastChange.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250327121108_lastChange.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327121108_lastChange.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250327121108_lastChange.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:11:08.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ProjectManagementSystem.Entities.csproj",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj",
+              "RelativeToolTip": "ProjectManagementSystem.Entities\\ProjectManagementSystem.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T10:55:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20250327120755_fewfeatureCategorychanges.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327120755_fewfeatureCategorychanges.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250327120755_fewfeatureCategorychanges.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327120755_fewfeatureCategorychanges.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250327120755_fewfeatureCategorychanges.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:07:55.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20250327120422_fewChanges.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327120422_fewChanges.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250327120422_fewChanges.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327120422_fewChanges.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250327120422_fewChanges.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:04:22.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20250327114938_UpdateCommentConfiguration.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327114938_UpdateCommentConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250327114938_UpdateCommentConfiguration.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250327114938_UpdateCommentConfiguration.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250327114938_UpdateCommentConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:49:39.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "GetProjectStatusById.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\GetProjectStatusById.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Projects\\GetProjectStatusById.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\GetProjectStatusById.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Projects\\GetProjectStatusById.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:07:48.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "DeleteProject.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\DeleteProject.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Projects\\DeleteProject.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\DeleteProject.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Projects\\DeleteProject.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:41:24.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "GetProjectReport.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\GetProjectReport.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Projects\\GetProjectReport.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\GetProjectReport.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Projects\\GetProjectReport.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:23:54.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "GetAllProjectStatus.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\GetAllProjectStatus.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\Projects\\GetAllProjectStatus.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\Projects\\GetAllProjectStatus.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\Projects\\GetAllProjectStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:18:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "DeleteTeamMember.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\DeleteTeamMember.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\TeamMember\\DeleteTeamMember.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\DeleteTeamMember.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\TeamMember\\DeleteTeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:42:08.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "GetAllTeamMembers.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTeamMembers.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTeamMembers.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTeamMembers.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTeamMembers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:41:06.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "GetAllTaskTeamMember.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTaskTeamMember.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTaskTeamMember.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTaskTeamMember.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\Features\\TeamMember\\GetAllTaskTeamMember.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:57:29.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "MappingAdapter.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\TypeAdapter\\MappingAdapter.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\TypeAdapter\\MappingAdapter.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\TypeAdapter\\MappingAdapter.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\TypeAdapter\\MappingAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:50:28.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Core\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Core\\Enums\\Status.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Core\\Enums\\Status.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Core\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:08:56.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "ProjectReportDto.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectReportDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectReportDto.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectReportDto.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Services\\DTOs\\ProjectDTOs\\ProjectReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:05:00.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20250307020751_dbinit.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250307020751_dbinit.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250307020751_dbinit.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250307020751_dbinit.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250307020751_dbinit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:07:52.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20250305094451_updationDb.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305094451_updationDb.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250305094451_updationDb.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305094451_updationDb.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250305094451_updationDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:44:51.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20250305082009_featureupdation.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305082009_featureupdation.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250305082009_featureupdation.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305082009_featureupdation.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250305082009_featureupdation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:20:09.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20250305081635_featurenew.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081635_featurenew.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250305081635_featurenew.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081635_featurenew.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250305081635_featurenew.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:16:35.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20250305081410_features.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081410_features.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250305081410_features.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081410_features.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250305081410_features.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:14:11.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20250305081000_feature.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081000_feature.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250305081000_feature.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305081000_feature.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250305081000_feature.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:10:01.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20250305060556_DynamicSidebar.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305060556_DynamicSidebar.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250305060556_DynamicSidebar.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305060556_DynamicSidebar.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250305060556_DynamicSidebar.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:05:56.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "20250305060033_featuresadded.cs",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305060033_featuresadded.cs",
+              "RelativeDocumentMoniker": "ProjectManagementSystem.Contexts\\Migrations\\20250305060033_featuresadded.cs",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystem.Contexts\\Migrations\\20250305060033_featuresadded.cs",
+              "RelativeToolTip": "ProjectManagementSystem.Contexts\\Migrations\\20250305060033_featuresadded.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:00:34.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProjectManagementSystemWebApp.WebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\CodeInsight\\Backup\\ProjectManagementSystemWebApp\\ProjectManagementSystemWebApp.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "ProjectManagementSystemWebApp.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T05:43:17.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "PACKAGE.md",
+              "DocumentMoniker": "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.13\\docs\\PACKAGE.md",
+              "ToolTip": "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.13\\docs\\PACKAGE.md [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-21T06:15:10.273Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "PACKAGE.md",
+              "DocumentMoniker": "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.13\\PACKAGE.md",
+              "ToolTip": "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.13\\PACKAGE.md [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-21T06:16:15.768Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

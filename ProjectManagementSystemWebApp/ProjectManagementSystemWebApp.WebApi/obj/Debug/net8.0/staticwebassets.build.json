@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jWjEkjXsgJjlR+KT2PS1Ikapw/EP53MxMWASg66F9tk=",
+  "Source": "ProjectManagementSystemWebApp.WebApi",
+  "BasePath": "_content/ProjectManagementSystemWebApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
